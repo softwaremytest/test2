@@ -1,0 +1,39 @@
+@CHARSET "UTF-8";
+
+.test3-cgx {
+	width: 150px;
+	height: 40px;
+	text-align: center;
+	padding-top:10px;
+	background:#F5F5F5;
+}
+.test3-cgx a{
+	color:#000000;
+}
+.test3-cgx a:hover{
+	text-decoration: none;
+}
+
+
+.test3-shanchu{
+	position:relative;
+	left:30px;
+	top:-10px;
+}
+.test3-shanchu a{
+	color:#000000;
+}
+.test3-shanchu a{
+	text-decoration: none;
+}
+
+
+.test3-liebiao{
+	width:250px;
+}
+.test3-liebiao a{
+	font-size:12px;
+}
+.test3-liebiao a:hover{
+	color:#000000;
+}
